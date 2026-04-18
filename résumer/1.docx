@@ -1,0 +1,31 @@
+
+Sans Digital Twin :
+
+le système voit seulement le moment actuel
+
+👉 Avec Digital Twin :
+
+il garde une mémoire dynamique
+
+Le Digital Twin permet :
+
+adaptation spécifique à chaque joueur
+décisions basées sur profil complet
+
+❌ Limites importantes
+❌ 1. Pas de vision globale
+
+👉 Le système travaille sur :
+
+données instantanées seulement
+
+➡️ pas de profil joueur
+
+❌ 2. Pas de mémoire
+
+👉 Le système oublie :
+
+comportement passé
+évolution
+
+➡️ décisions moins intelligentes

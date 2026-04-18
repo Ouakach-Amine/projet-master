@@ -1,0 +1,9 @@
+﻿Sans Digital Twin :
+les décisions sont basées uniquement sur des données instantanées
+il n’y a pas de mémoire du joueur
+l’interprétation reste limitée
+Avec Digital Twin :
+le joueur est modélisé de manière globale
+son évolution est prise en compte
+les décisions sont plus précises et personnalisées
+

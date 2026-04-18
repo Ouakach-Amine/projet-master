@@ -1,0 +1,119 @@
+﻿“Methodology for the design and development of serious games as a tool for
+the treatment of ADHD-related symptoms in childrené”
+ Type de méthode 
+👉 Méthode :
+Quantitative + qualitative
+Étude expérimentale exploratoire
+
+
+L’article montre clairement que l’évaluation d’un Serious Game repose sur plusieurs dimensions simultanées :
+✔️ Dimensions utilisées :
+🎮 Playability
+😊 Sympathy & Enjoyment
+⚙️ Ease of Use
+📊 Accuracy (performance)
+🧠 Adaptation aux besoins TDAH
+👉 Donc :
+L’évaluation n’est pas mono-critère → elle est multidimensionnelle
+Argument scientifique à utiliser : 
+L’article démontre que l’évaluation d’un Serious Game nécessite la prise en compte simultanée de plusieurs dimensions (ergonomiques, ludiques, cognitives et comportementales), ce qui justifie l’adoption d’un cadre multicritère.
+
+
+Absence de gestion de l’incertitude 👉 Problème important :
+Les réponses des joueurs sont :
+subjectives
+imprécises
+ambiguës
+👉 MAIS :
+Le système utilise des valeurs fixes (ex: moyenne)
+🔥 Argument fort pour logique floue : Les données issues des questionnaires (ex. satisfaction, engagement) sont intrinsèquement floues et imprécises, ce qui justifie l’utilisation de la logique floue pour une modélisation plus réaliste.
+
+Pas d’adaptation dynamique
+👉 Dans l’article :
+    • Difficulté = L1 / L2 / L3 (statique) 
+    • Pas d’adaptation en temps réel 
+🔥 Argument clé pour IA :
+Le système ne propose aucune adaptation dynamique basée sur les performances du joueur, ce qui limite son efficacité dans un contexte d’apprentissage personnalisé.
+L’évaluation n’est pas intégrée au système (offline) 👉 Important :
+L’évaluation est faite après le jeu
+Pas pendant le jeu
+🔥 Argument critique : L’absence d’évaluation en temps réel empêche toute adaptation immédiate du jeu, réduisant ainsi son potentiel pédagogique et thérapeutique.
+
+
+L’article précise que les jeux sont conçus pour améliorer plusieurs compétences chez les enfants, notamment :
+    • l’attention 
+    • le contrôle inhibiteur 
+    • la coordination visuomotrice 
+👉 Donc :
+Un seul critère ne suffit pas pour évaluer un système qui agit sur plusieurs dimensions cognitives et comportementales.
+Parce que la qualité d’un Serious Game est multidimensionnelle L’évaluation ne se limite pas à la performance, mais inclut :
+la jouabilité (playability)
+l’engagement et le plaisir (sympathy & enjoyment)
+la facilité d’utilisation (ease of use)
+la précision des actions (accuracy)
+👉 L’article montre clairement que :
+La qualité d’un Serious Game dépend de plusieurs facteurs complémentaires, et non d’un seul indicateur.
+L’article insiste sur le fait que les jeux doivent respecter plusieurs critères de conception spécifiques, comme :
+    • Caractère motivant
+    • Activités ludiques
+    • Sans stimuli auditifs et visuels excessifs
+    • Niveau de difficulté abordable
+    • Durée estimée du jeu
+    • Évaluation immédiate
+    • Système basé sur des récompenses 
+👉 Donc :
+L’évaluation doit vérifier simultanément ces différents aspects
+
+“Evaluating and validating the Serious Slow Game Jam methodology as a
+mechanism for co-designing serious games to improve understanding of
+cybersecurity for different demographics”
+
+
+
+Dans la section SSGJ evaluation procedure, l’article indique clairement que l’évaluation doit couvrir :
+    • Knowledge (connaissance) 
+    • Workload (charge de travail) 
+    • Motivation 
+    • Engagement 
+👉 Donc :
+L’évaluation n’est pas basée sur un seul critère, mais sur plusieurs aspects distincts du processus et de l’expérience.
+L’évaluation des acquis lors de game jams est difficile, car l’expérience d’apprentissage est très personnelle. Pour mesurer l’impact de la Serious Game Jam sur la compréhension de la cybersécurité, plusieurs méthodes sont combinées : des pré-tests et post-tests, de l’auto-évaluation et de l’évaluation par les pairs.
+Les pré-/post-tests mesurent quantitativement l’évolution des connaissances et la confiance dans les compétences clés (cybersécurité et conception de jeux), grâce à un questionnaire adapté du SICKS, comprenant sept questions sur une échelle de 7 points. Ces tests ont été réalisés en ligne en début et fin de session.
+Par ailleurs, des évaluations qualitatives (auto-évaluation et évaluation par les pairs) ont été menées en équipe à l’aide d’outils spécifiques (cartes dédiées) et de retours d’experts, lors des deux derniers jours de la jam.
+
+“Evaluating Serious Slow Game Jams as a Mechanism for
+Co-Designing Serious Games to Improve Understanding
+of Cybersecurity”
+
+
+Cet article prouve que l’évaluation d’un Serious Game nécessite intrinsèquement plusieurs dimensions (pédagogique, cognitive, motivationnelle et comportementale)
+
+
+L'évaluation s'appuie sur un cadre multicritère implicite organisé autour de quatre dimensions principales :
+1. Dimension pédagogique (connaissances)
+    • Méthodes : pré-/post-tests, auto-évaluation, questionnaire SICKS (confiance dans les compétences)
+    • Objectif : mesurer la compréhension, l'acquisition de connaissances et la confiance
+2. Dimension cognitive / charge mentale
+    • Méthode : NASA-TLX
+    • Objectif : mesurer l'effort mental, la fatigue et la difficulté perçue
+    • Particularité : approche multidimensionnelle avec 6 sous-critères
+3. Dimension motivationnelle / engagement
+    • Méthode : IMI (Intrinsic Motivation Inventory)
+    • Objectif : mesurer l'intérêt, la motivation intrinsèque et la valeur perçue
+    • Justification : la motivation influence la performance et la persévérance
+4. Dimension comportementale / sociale
+    • Méthodes : évaluation par les pairs, retours d'experts, observations qualitatives
+    • Objectif : mesurer la collaboration, l'interaction et l'engagement réel
+Ce cadre multicritère permet une évaluation globale de l'expérience d'apprentissage en combinant des mesures quantitatives (tests, échelles validées) et qualitatives (observations, évaluations croisées).
+
+L'article met en évidence trois limites principales dans les pratiques actuelles d'évaluation des game jams :
+1. Évaluations partielles :
+Les évaluations ont tendance à se concentrer sur un seul aspect spécifique de la game jam, adoptant ainsi une approche mono-critère.
+2. Manque de rigueur scientifique :
+Les méthodes employées reposent principalement sur des évaluations qualitatives et manquent souvent de rigueur méthodologique.
+3. Absence de cadre global :
+Il existe un manque criant d'une méthode universelle ou d'un cadre unifié pour évaluer les game jams, ce qui constitue une lacune dans le domaine.
+Conclusion implicite : Ces constats justifient la nécessité de développer un cadre d'évaluation plus complet, multidimensionnel et scientifiquement rigoureux.
+
+
+
